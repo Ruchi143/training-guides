@@ -25,7 +25,7 @@ Relevant actors
 ===============
 
 .. image:: ./_assets/02-01-relevant-actors.png
-  :width: 120%
+  :width: 200%
 
 Relevance metrics
 =================
