@@ -48,7 +48,7 @@ Relevance metrics
 
 .. image:: ./_assets/02-02-relevance-metrics.png
   :width: 100%
-  :align: right
+  :width: 250 px
   
 
 Company snapshot
