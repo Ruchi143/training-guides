@@ -25,7 +25,7 @@ Relevant actors
 ===============
 
 .. image:: ./_assets/02-01-relevant-actors.png
-  :width: 200%
+  :width: 100%
 
 Relevance metrics
 =================
@@ -48,6 +48,7 @@ Relevance metrics
 
 .. image:: ./_assets/02-02-relevance-metrics.png
    :height: 500 px
+   :width: 100%
 
 Company snapshot
 ================
