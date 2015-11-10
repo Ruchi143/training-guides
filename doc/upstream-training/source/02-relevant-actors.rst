@@ -47,8 +47,7 @@ Relevance metrics
 .. rst-class:: colright
 
 .. image:: ./_assets/02-02-relevance-metrics.png
-   :height: 500 px
-   :width: 100%
+  :width: 100%
 
 Company snapshot
 ================
